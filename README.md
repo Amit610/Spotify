@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./public/assets/GEAR5.png" alt="Project logo"></a>
+ <img width=200px height=200px src="/pngwing.com.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Spotify clone</h3>
@@ -44,10 +44,6 @@ What things you need to install the software and how to install them.
 
 - Node.js and npm installed on your machine.
 - MongoDB installed and a running instance.
-
-```
-Give examples
-```
 
 ### Installing
 
@@ -140,5 +136,3 @@ See also the list of [contributors](https://github.com/Amit610/Spotify-Clone/con
 
 - Thanks to the Spotify team for the inspiration behind this project.
 - Shoutout to the open-source community for the amazing tools and libraries used in building this clone.
-
-Feel free to customize this README.md to suit your project's specific details and requirements.
