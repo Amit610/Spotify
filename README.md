@@ -60,6 +60,7 @@ Install client dependencies:
 
 ```
 cd client
+npm install
 npm nodemon ./index.js
 ```
 
